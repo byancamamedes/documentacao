@@ -38,7 +38,8 @@ Para usar o projeto SaboreAR, siga as instruções abaixo:
 A estrutura do projeto será detalhada após a organização dos diretórios e arquivos, em colaboração com a equipe de front-end e back-end.
 
 ## Diagramas de Sequência
-https://github.com/byancamamedes/documentacao/blob/main/CAE%20reserva.png?raw=true
+![Texto Alternativo](https://github.com/byancamamedes/documentacao/blob/main/CAE%20reserva.png?raw=true)
+
 
 ## Tecnologias Utilizadas
 O projeto SaboreAR utiliza as seguintes tecnologias, bibliotecas e frameworks:
