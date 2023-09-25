@@ -44,7 +44,7 @@ A estrutura do projeto será detalhada após a organização dos diretórios e a
 ![Texto Alternativo](https://github.com/byancamamedes/documentacao/blob/main/cantina%20cadastro.png?raw=true)
 ![Texto Alternativo](https://github.com/byancamamedes/documentacao/blob/main/cantina%20reserva.png?raw=true)
 ![Texto Alternativo](https://github.com/byancamamedes/documentacao/blob/main/historico.png?raw=true)
-![Texto Alternativo](URL_da_Imagem)
+![Texto Alternativo](https://github.com/byancamamedes/documentacao/blob/main/pagamento.png?raw=true)
 ![Texto Alternativo](URL_da_Imagem)
 
 
