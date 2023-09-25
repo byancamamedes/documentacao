@@ -39,6 +39,15 @@ A estrutura do projeto será detalhada após a organização dos diretórios e a
 
 ## Diagramas de Sequência
 ![Texto Alternativo](https://github.com/byancamamedes/documentacao/blob/main/CAE%20reserva.png?raw=true)
+![Texto Alternativo](https://github.com/byancamamedes/documentacao/blob/main/cadastro.png?raw=true)
+![Texto Alternativo](URL_da_Imagem)
+![Texto Alternativo](URL_da_Imagem)
+![Texto Alternativo](URL_da_Imagem)
+![Texto Alternativo](URL_da_Imagem)
+![Texto Alternativo](URL_da_Imagem)
+![Texto Alternativo](URL_da_Imagem)
+
+
 
 
 ## Tecnologias Utilizadas
