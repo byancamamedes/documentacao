@@ -1,6 +1,6 @@
 # SaboreAR
 
-![SaboreAR Logo](blob:https://web.whatsapp.com/d25d3c27-70f4-49b7-89bf-87f9d4206d54)
+![SaboreAR Logo]()
 
 ## Índice
 1. [Resumo](#resumo)
