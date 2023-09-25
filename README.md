@@ -1,6 +1,6 @@
 # SaboreAR
 
-![SaboreAR Logo](link-para-o-logo.png)
+![SaboreAR Logo](blob:https://web.whatsapp.com/d25d3c27-70f4-49b7-89bf-87f9d4206d54)
 
 ## Índice
 1. [Resumo](#resumo)
@@ -38,14 +38,14 @@ Para usar o projeto SaboreAR, siga as instruções abaixo:
 A estrutura do projeto será detalhada após a organização dos diretórios e arquivos, em colaboração com a equipe de front-end e back-end.
 
 ## Diagramas de Sequência
-![Texto Alternativo](https://github.com/byancamamedes/documentacao/blob/main/CAE%20reserva.png?raw=true)
-![Texto Alternativo](https://github.com/byancamamedes/documentacao/blob/main/cadastro.png?raw=true)
-![Texto Alternativo](https://github.com/byancamamedes/documentacao/blob/main/cae%20cadastro.png?raw=true)
-![Texto Alternativo](https://github.com/byancamamedes/documentacao/blob/main/cantina%20cadastro.png?raw=true)
-![Texto Alternativo](https://github.com/byancamamedes/documentacao/blob/main/cantina%20reserva.png?raw=true)
-![Texto Alternativo](https://github.com/byancamamedes/documentacao/blob/main/historico.png?raw=true)
-![Texto Alternativo](https://github.com/byancamamedes/documentacao/blob/main/pagamento.png?raw=true)
-![Texto Alternativo](https://github.com/byancamamedes/documentacao/blob/main/reserva.png?raw=true)
+![CAE reserva](https://github.com/byancamamedes/documentacao/blob/main/CAE%20reserva.png?raw=true)
+![Cadastro](https://github.com/byancamamedes/documentacao/blob/main/cadastro.png?raw=true)
+![CAE Cadastro](https://github.com/byancamamedes/documentacao/blob/main/cae%20cadastro.png?raw=true)
+![Cantina Cadastro](https://github.com/byancamamedes/documentacao/blob/main/cantina%20cadastro.png?raw=true)
+![Cantina reserva](https://github.com/byancamamedes/documentacao/blob/main/cantina%20reserva.png?raw=true)
+![Histórico](https://github.com/byancamamedes/documentacao/blob/main/historico.png?raw=true)
+![Pagamento](https://github.com/byancamamedes/documentacao/blob/main/pagamento.png?raw=true)
+![Reserva](https://github.com/byancamamedes/documentacao/blob/main/reserva.png?raw=true)
 
 
 
