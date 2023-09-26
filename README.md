@@ -61,9 +61,7 @@ O auxílio alimentação é uma prática comum em instituições educacionais pa
 
 A emissão de senha pode ser útil para organizar o atendimento e a retirada das refeições. As senhas podem ser usadas para garantir que os alunos recebam suas refeições na ordem correta e evitem congestionamentos.
 
-## Exemplos de Uso do Projeto
 
-Dentro da categoria "SO" (Sistemas Operacionais), você encontrará exemplos de como usar o projeto, incluindo configurações específicas para diferentes sistemas operacionais. Esses exemplos podem ajudar você a implementar o sistema em seu ambiente escolar.
 
 ## Repositórios do Projeto
 
