@@ -5,7 +5,7 @@
 ## Índice
 1. [Resumo](#resumo)
 2. [Pré-requisitos](#pré-requisitos)
-3. [Uso](#uso)
+3. [Funcionalidades do Sistema](#funcionalidades-do-sistema)
 4. [Estrutura do Projeto de software](#estrutura-do-projeto-de-software)
 5. [Diagramas de Sequência](#diagramas-de-sequência)
 6. [Tecnologias Utilizadas](#tecnologias-utilizadas)
