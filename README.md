@@ -7,12 +7,13 @@
 2. [Pré-requisitos](#pré-requisitos)
 3. [Funcionalidades do Sistema](#funcionalidades-do-sistema)
 4. [Estrutura do Projeto de software](#estrutura-do-projeto-de-software)
-5. [Diagramas de Sequência](#diagramas-de-sequência)
-6. [Tecnologias Utilizadas](#tecnologias-utilizadas)
-7. [Autores e Reconhecimento](#autores-e-reconhecimento)
-8. [Contato](#contato)
-9. [Changelog](#changelog)
-10. [FAQ](#faq)
+5 [Repositórios do Projeto](#repositórios-do-projeto)
+6. [Diagramas de Sequência](#diagramas-de-sequência)
+7. [Tecnologias Utilizadas](#tecnologias-utilizadas)
+8. [Autores e Reconhecimento](#autores-e-reconhecimento)
+9. [Contato](#contato)
+10. [Changelog](#changelog)
+11. [FAQ](#faq)
 
 ## Resumo
 SaboreAR é um projeto desenvolvido pelos alunos do curso de Informática integrado ao ensino médio, juntamente com o auxílio do professor Iury Gomes de Oliveira, que tem por objetivo elaborar um site para cadastrar as reservas de almoço dos alunos e servidores do Colégio IFTO, campus Araguaína. Existe a possibilidade de com aprimoração e pós período de testes o site seja disponibilizado para outros públicos e instituições escolares. O site visa a reservar semanal e/ou mensal de alunos e servidores, histórico de pedidos, acompanhamento do cardápio e pagamento do próprio almoço.
