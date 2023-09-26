@@ -31,7 +31,7 @@ Para utilizar o SaboreAR, você precisa dos seguintes requisitos:
 ## Uso
 Para usar o projeto SaboreAR, siga as instruções abaixo:
 
-- [Front-end do projeto](link-para-o-repositório-front-end)
+- [Front-end do projeto](https://github.com/rafaelnamel0/FRONTEND)
 - [Back-end do projeto](link-para-o-repositório-back-end)
 
 ## Estrutura do Projeto de software
