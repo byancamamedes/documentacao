@@ -85,7 +85,7 @@ A estrutura do projeto será detalhada após a organização dos diretórios e a
 ## Tecnologias Utilizadas
 O projeto SaboreAR utiliza as seguintes tecnologias, bibliotecas e frameworks:
 
-- Tecnologia 1
+- Canva
 - Tecnologia 2
 - Biblioteca 1
 - Framework 1
