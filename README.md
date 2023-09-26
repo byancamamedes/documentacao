@@ -28,9 +28,6 @@ Para utilizar o SaboreAR, você precisa dos seguintes requisitos:
 - Desconto para bolsistas.
 - Emissão de senha.
 
-## Uso
-Para usar o projeto SaboreAR, siga as instruções abaixo:
-
 ## Funcionalidades do Sistema
 
 ### Acesso à Internet e/ou Rede Wi-Fi
