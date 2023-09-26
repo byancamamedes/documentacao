@@ -7,7 +7,7 @@
 2. [Pré-requisitos](#pré-requisitos)
 3. [Funcionalidades do Sistema](#funcionalidades-do-sistema)
 4. [Estrutura do Projeto de software](#estrutura-do-projeto-de-software)
-5 [Repositórios do Projeto](#repositórios-do-projeto)
+5. [Repositórios do Projeto](#repositórios-do-projeto)
 6. [Diagramas de Sequência](#diagramas-de-sequência)
 7. [Tecnologias Utilizadas](#tecnologias-utilizadas)
 8. [Autores e Reconhecimento](#autores-e-reconhecimento)
