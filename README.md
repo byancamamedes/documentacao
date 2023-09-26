@@ -31,8 +31,44 @@ Para utilizar o SaboreAR, você precisa dos seguintes requisitos:
 ## Uso
 Para usar o projeto SaboreAR, siga as instruções abaixo:
 
-- [Front-end do projeto](https://github.com/rafaelnamel0/FRONTEND)
-- [Back-end do projeto](link-para-o-repositório-back-end)
+## Funcionalidades do Sistema
+
+### Acesso à Internet e/ou Rede Wi-Fi
+
+A conectividade à Internet é necessária para várias funcionalidades do sistema, incluindo o pagamento via PIX, o funcionamento das máquinas de pagamento durante a retirada do almoço e também para fazer pedidos online. É importante garantir uma conexão estável para que os processos de pagamento e retirada ocorram sem problemas.
+
+### Reserva do Almoço
+
+A capacidade de fazer reservas garante que os alunos tenham um lugar garantido para o almoço no instituto, evitando a falta de refeições devido à lotação.
+
+### Visualização do Histórico de Pedidos
+
+Isso ajuda a instituição a manter o controle de produção e demanda, permitindo que eles planejem melhor a quantidade de comida a ser preparada, reduzindo o desperdício e garantindo que todos recebam suas refeições.
+
+### Visualização do Cardápio
+
+Oferecer acesso ao cardápio é útil para os alunos, pois lhes permite tomar decisões informadas sobre se desejam fazer a reserva do almoço naquele dia ou não, com base nas opções disponíveis.
+
+### Pagamento
+
+Os alunos podem fazer o pagamento online ou no local, por meio de várias opções, como PIX, cartão de crédito, entre outros.
+
+### Desconto para Bolsistas
+
+O auxílio alimentação é uma prática comum em instituições educacionais para apoiar alunos financeiramente.
+
+### Emissão de Senha
+
+A emissão de senha pode ser útil para organizar o atendimento e a retirada das refeições. As senhas podem ser usadas para garantir que os alunos recebam suas refeições na ordem correta e evitem congestionamentos.
+
+## Exemplos de Uso do Projeto
+
+Dentro da categoria "SO" (Sistemas Operacionais), você encontrará exemplos de como usar o projeto, incluindo configurações específicas para diferentes sistemas operacionais. Esses exemplos podem ajudar você a implementar o sistema em seu ambiente escolar.
+
+## Repositórios do Projeto
+
+- **Front-End:** [Link para o Repositório do Front-End](https://github.com/rafaelnamel0/FRONTEND)
+- **Back-End:** [Link para o Repositório do Back-End](https://github.com/seu-usuario/nome-do-repo-backend)
 
 ## Estrutura do Projeto de software
 A estrutura do projeto será detalhada após a organização dos diretórios e arquivos, em colaboração com a equipe de front-end e back-end.
