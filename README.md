@@ -64,7 +64,7 @@ A emissão de senha pode ser útil para organizar o atendimento e a retirada das
 ## Repositórios do Projeto
 
 - **Front-End:** [Link para o Repositório do Front-End](https://github.com/rafaelnamel0/FRONTEND)
-- **Back-End:** [Link para o Repositório do Back-End](https://github.com/seu-usuario/nome-do-repo-backend)
+- **Back-End:** [Link para o Repositório do Back-End](https://github.com/SquadBackend/ProjetoIntegradorBackEnd#projetointegrador)
 
 ## Estrutura do Projeto de software
 A estrutura do projeto será detalhada após a organização dos diretórios e arquivos, em colaboração com a equipe de front-end e back-end.
