@@ -3,6 +3,7 @@
 ![SaboreAR Logo](https://github.com/byancamamedes/documentacao/blob/main/WhatsApp%20Image%202023-09-25%20at%2019.27.40.jpeg?raw=true)
 
 ## Índice
+
 1. [Resumo](#resumo)
 2. [Pré-requisitos](#pré-requisitos)
 3. [Funcionalidades do Sistema](#funcionalidades-do-sistema)
