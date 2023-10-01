@@ -17,7 +17,7 @@
 11. [FAQ](#faq)
 
 ## Resumo
-SaboreAR é um projeto desenvolvido pelos alunos do curso de Informática integrado ao ensino médio, juntamente com o auxílio do professor Iury Gomes de Oliveira, que tem por objetivo elaborar um site para cadastrar as reservas de almoço dos alunos e servidores do Colégio IFTO, campus Araguaína. Existe a possibilidade de com aprimoração e pós período de testes o site seja disponibilizado para outros públicos e instituições escolares. O site visa a reservar semanal e/ou mensal de alunos e servidores, histórico de pedidos, acompanhamento do cardápio e pagamento do próprio almoço.
+SaboreAR é um projeto desenvolvido pelos alunos do curso de Informática integrado ao ensino médio, juntamente com o auxílio do professor Iury Gomes de Oliveira, que tem por objetivo elaborar um site para cadastrar as reservas de almoço dos alunos e servidores do IFTO Campus Araguaína. Existe a possibilidade de com aprimoração e pós período de testes o site seja disponibilizado para outros públicos e instituições escolares. O site visa a reservar semanal e/ou mensal de alunos e servidores, histórico de pedidos, acompanhamento do cardápio e pagamento do próprio almoço.
 
 ## Pré-requisitos
 Para utilizar o SaboreAR, você precisa dos seguintes requisitos:
