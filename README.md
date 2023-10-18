@@ -14,7 +14,9 @@
 8. [Autores e Reconhecimento](#autores-e-reconhecimento)
 9. [Contato](#contato)
 10. [Changelog](#changelog)
-11. [FAQ](#faq)
+11. [Protótipos] (#prototipos)
+12. [FAQ](#faq)
+
 
 ## Resumo
 SaboreAR é um projeto desenvolvido pelos alunos do curso de Informática integrado ao ensino médio, juntamente com o auxílio do professor Iury Gomes de Oliveira, que tem por objetivo elaborar um site para cadastrar as reservas de almoço dos alunos e servidores do IFTO Campus Araguaína. Existe a possibilidade de com aprimoração e pós período de testes o site seja disponibilizado para outros públicos e instituições escolares. O site visa a reservar semanal e/ou mensal de alunos e servidores, histórico de pedidos, acompanhamento do cardápio e pagamento do próprio almoço.
@@ -107,6 +109,12 @@ Para dúvidas, reclamações, informações, avaliações e colaborações, entr
 
 ## Changelog
 Histórico de versões e atualizações serão registrados aqui.
+
+## Protótipos 
+### Protótipos para celular: 
+(https://www.canva.com/design/DAFsxkz8Re8/q-0rUQ9WhZ5yw7RFD9TYfw/edit?utm_content=DAFsxkz8Re8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+### Protótipos para computador: 
+(https://www.canva.com/design/DAFs6-0Au18/LJIG9iG3fwnMyg0pGZGXHw/edit)
 
 ## FAQ
 ### 1. O que é o site de reserva de almoço da Escola X?
