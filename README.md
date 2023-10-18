@@ -110,7 +110,7 @@ Para dúvidas, reclamações, informações, avaliações e colaborações, entr
 ## Changelog
 Histórico de versões e atualizações serão registrados aqui.
 
-## Protótipos 
+## Prototipos 
 ### Protótipos para celular: 
 (https://www.canva.com/design/DAFsxkz8Re8/q-0rUQ9WhZ5yw7RFD9TYfw/edit?utm_content=DAFsxkz8Re8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 ### Protótipos para computador: 
