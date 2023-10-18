@@ -14,7 +14,7 @@
 8. [Autores e Reconhecimento](#autores-e-reconhecimento)
 9. [Contato](#contato)
 10. [Changelog](#changelog)
-11. [Protótipos] (#prototipos)
+11. [Prototipos](#prototipos)
 12. [FAQ](#faq)
 
 
