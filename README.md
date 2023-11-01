@@ -111,10 +111,7 @@ Para dúvidas, reclamações, informações, avaliações e colaborações, entr
 Histórico de versões e atualizações serão registrados aqui.
 
 ## Prototipos 
-### Protótipos para celular: 
-(https://www.canva.com/design/DAFsxkz8Re8/q-0rUQ9WhZ5yw7RFD9TYfw/edit?utm_content=DAFsxkz8Re8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-### Protótipos para computador: 
-(https://www.canva.com/design/DAFs6-0Au18/LJIG9iG3fwnMyg0pGZGXHw/edit)
+https://github.com/byancamamedes/documentacao/tree/main/Prot%C3%B3tipos
 
 ## FAQ
 ### 1. O que é o site de reserva de almoço da Escola X?
